@@ -1,0 +1,4 @@
+#Mon Mar 24 23:17:53 PKT 2025
+base.0=C\:\\Users\\Admin\\OneDrive\\Desktop\\SMD\\weather_app\\flutter_application_1\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
